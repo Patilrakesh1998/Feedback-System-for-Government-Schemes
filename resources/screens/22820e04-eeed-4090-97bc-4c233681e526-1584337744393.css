@@ -1,0 +1,241 @@
+#s-22820e04-eeed-4090-97bc-4c233681e526 > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 > #alignmentBox {
+  position: relative;
+  max-width: 360px;
+  max-height: 640px;
+  width: 100%;
+  height: 100%;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Image_2 {
+  position: absolute;
+  width: 360px;
+  height: 314px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Image_2 > img, #s-22820e04-eeed-4090-97bc-4c233681e526 #s-Image_2 > svg {
+  height: 314px;
+  width: 360px;
+  box-shadow: none;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Image_1 {
+  position: absolute;
+  width: 219px;
+  height: 200px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Image_1 > img, #s-22820e04-eeed-4090-97bc-4c233681e526 #s-Image_1 > svg {
+  height: 200px;
+  width: 219px;
+  box-shadow: none;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Text_1 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Text_1 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 11.0pt;
+  font-family: 'Roboto-Light',Arial;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Text_1 > .clipping, #s-22820e04-eeed-4090-97bc-4c233681e526 #s-Text_1 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Text_1 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Text_1 span {
+  color: #808080;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Roboto-Light',Arial;
+  font-size: 11.0pt;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Text_1 span#rtr-s-Text_1_0 {
+  color: #808080;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Roboto-Light',Arial;
+  font-size: 11.0pt;
+  line-height: 0px;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Button_1 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: #6624FB;
+  background-image: none;
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-top-color: #676CFB;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-right-color: #676CFB;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  border-bottom-color: #676CFB;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-left-color: #676CFB;
+  border-radius: 4px 4px 4px 4px;
+  box-shadow: 0px 3px 4px 0px #A0A0A0;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Button_1 {
+  position: absolute;
+  width: 170px;
+  height: 56px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 16.0pt;
+  font-family: 'Rockwell',Arial;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Button_1 > .clipping, #s-22820e04-eeed-4090-97bc-4c233681e526 #s-Button_1 > .paddingLayer {
+  height: 52px;
+  width: 166px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Button_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Button_1 span {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Rockwell',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Button_1 span#rtr-s-Button_1_0 {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Rockwell',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Button_2 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: #08AE9E;
+  background-image: none;
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-top-color: #08AE9E;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-right-color: #08AE9E;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  border-bottom-color: #08AE9E;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-left-color: #08AE9E;
+  border-radius: 4px 4px 4px 4px;
+  box-shadow: 0px 3px 4px 0px #A0A0A0;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Button_2 {
+  position: absolute;
+  width: 169px;
+  height: 56px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 16.0pt;
+  font-family: 'Rockwell',Arial;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Button_2 > .clipping, #s-22820e04-eeed-4090-97bc-4c233681e526 #s-Button_2 > .paddingLayer {
+  height: 52px;
+  width: 165px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Button_2 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Button_2 span {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Rockwell',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 #s-Button_2 span#rtr-s-Button_2_0 {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Rockwell',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-22820e04-eeed-4090-97bc-4c233681e526 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
